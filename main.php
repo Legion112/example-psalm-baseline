@@ -1,4 +1,8 @@
 <?php
 if (false) {
-	methodnotexist("Hello, I am the buggy code you alwasy looking for!" . PHP_EOL);
+	methodnotexist("Hello, I am a bug in your code");
 }
+if (false) {
+	methodnotexist("Only this bus is reported");
+}
+
